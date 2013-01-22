@@ -1,4 +1,4 @@
-# Origami - A fluid mobile-first grid system. http://cferdinandi.github.com/origami/
+# Origami - A fluid mobile-first grid system. 
 Origami is simple, barebones template for building grid-based, mobile-first websites.
 
 Adapted from [Foldy960 by Dave Rupert](https://github.com/davatron5000/Foldy960), Origami includes:
