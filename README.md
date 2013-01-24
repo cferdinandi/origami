@@ -16,4 +16,4 @@ Getting started with Origami is really easy. [View the online tutorial](http://c
   * Initial release.
 
 ## License
-Origami is licensed under the [WTFPL](http://www.wtfpl.net/) + "Not going to maintain this because the rent is too damn high" License.
+Origami is licensed under [WTFPL](http://www.wtfpl.net/).
