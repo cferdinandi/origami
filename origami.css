@@ -36,7 +36,7 @@ img, audio, video, canvas { max-width: 100%; }
 /*  Mobile-first. Single-column layout by default
  *  Container sets the maximum page width. Adjust as needed. */
 .container { 
-    max-width: 1280px;
+    max-width: 80em;
     width: 88%;
     margin-left: auto; 
     margin-right: auto;
@@ -46,7 +46,7 @@ img, audio, video, canvas { max-width: 100%; }
 /*  Still mostly single-column.
  *  Grid-third, grid-half, and grid-img 
  *  provide sub-gridding on smaller screens.  */
-@media (min-width: 481px) {
+@media (min-width: 30em) {
 
 	.row {
         margin-left: -1.515151515152%;
@@ -79,7 +79,7 @@ img, audio, video, canvas { max-width: 100%; }
 
 
 /*  6-column grid  */
-@media (min-width: 681px) {
+@media (min-width: 40em) {
 
     .grid-1 {
         width: 13.636363636364%;
@@ -137,7 +137,7 @@ img, audio, video, canvas { max-width: 100%; }
 
 /*  Additional gridding for grid-img on bigger screens.
  *  Adjust as needed. */
-@media (min-width: 961px) {
+@media (min-width: 40em) {
     .grid-img {
         width: 13.636363636364%;
     }

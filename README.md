@@ -12,7 +12,9 @@ Adapted from [Foldy960 by Dave Rupert](https://github.com/davatron5000/Foldy960)
 Getting started with Origami is really easy. [View the online tutorial](http://cferdinandi.github.com/origami/) or dig through the example.html file.
 
 ## Changelog
-* 01/21/2013
+* 2/5/2013
+  * Switched from px to ems for min and max-width values.
+* 1/21/2013
   * Initial release.
 
 ## License
