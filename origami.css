@@ -70,6 +70,10 @@ img, audio, video, canvas { max-width: 100%; }
         width: 46.969696969697%;
     }
 
+    .grid-two-thirds {
+        width: 63.636363636364%;
+    }
+
     /*  Reverses order of grid for content choreography */
     .grid-flip {
         float: right;
@@ -96,7 +100,8 @@ img, audio, video, canvas { max-width: 100%; }
         width: 46.969696969697%;
     }
 
-    .grid-4 { 
+    .grid-4,
+    .grid-two-thirds { 
         width: 63.636363636364%;
     }
 
