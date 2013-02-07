@@ -142,7 +142,7 @@ img, audio, video, canvas { max-width: 100%; }
 
 /*  Additional gridding for grid-img on bigger screens.
  *  Adjust as needed. */
-@media (min-width: 40em) {
+@media (min-width: 60em) {
     .grid-img {
         width: 13.636363636364%;
     }
