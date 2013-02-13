@@ -9,9 +9,11 @@ Adapted from [Foldy960 by Dave Rupert](https://github.com/davatron5000/Foldy960)
 * A special class for image galleries.
 
 ## How It Works
-Getting started with Origami is really easy. [View the online tutorial](http://cferdinandi.github.com/origami/) or dig through the example.html file.
+Getting started with Origami is really easy. [View the online tutorial](http://cferdinandi.github.com/origami/) or dig through the `index.html` file.
 
 ## Changelog
+* 2/13/2013
+  * Renamed `example.html` to `index.html`.
 * 2/5/2013
   * Switched from px to ems for min and max-width values.
 * 1/21/2013
