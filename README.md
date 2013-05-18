@@ -1,17 +1,11 @@
 # Origami - A fluid mobile-first grid system. 
-Origami is simple, barebones template for building grid-based, mobile-first websites.
+Origami has been merged into the [Kraken front-end boilerplate](http://cferdinandi.github.com/kraken/) and is no longer supported. 
 
-Adapted from [Foldy960 by Dave Rupert](https://github.com/davatron5000/Foldy960), Origami includes:
-
-* A 6-column, fluid grid.
-* Offsets for more flexible layouts design.
-* A special class to flip the order of your grids (for content choreography).
-* A special class for image galleries.
-
-## How It Works
-Getting started with Origami is really easy. [View the online tutorial](http://cferdinandi.github.com/origami/) or dig through the `index.html` file.
+If you're just looking for a simple fluid grid, check out [Foldy960 by Dave Rupert](https://github.com/davatron5000/Foldy960). Origami was based on it.
 
 ## Changelog
+* 5/17/2013
+  * Origami retired.
 * 2/13/2013
   * Renamed `example.html` to `index.html`.
 * 2/5/2013
