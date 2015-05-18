@@ -1,4 +1,4 @@
-# Origami - A fluid mobile-first grid system. 
+# [DEPRECATED] Origami - A fluid mobile-first grid system. 
 Origami has been merged into the [Kraken front-end boilerplate](http://cferdinandi.github.com/kraken/) and is no longer supported. 
 
 If you're just looking for a simple fluid grid, check out [Foldy960 by Dave Rupert](https://github.com/davatron5000/Foldy960). Origami was based on it.
@@ -14,4 +14,5 @@ If you're just looking for a simple fluid grid, check out [Foldy960 by Dave Rupe
   * Initial release.
 
 ## License
-Origami is licensed under [WTFPL](http://www.wtfpl.net/).
+
+The code is available under the [MIT License](LICENSE.md).
